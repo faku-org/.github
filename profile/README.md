@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img width="1920" alt="Banner Faku Org" src="../assets/banner.png" />
+  <img width="1920" alt="Banner Faku Org" src="https://cdn.wefaber.net/orgs/faku-org/banner.png" />
 
   <h1>Faku Org</h1>
   <p><strong>Construyo para entender.</strong> Software, sistemas y productos digitales desde Uruguay.</p>
