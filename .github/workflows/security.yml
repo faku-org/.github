@@ -44,7 +44,7 @@ jobs:
         env:
           CONFIGS: ${{ inputs.configs }}
         run: |
-          # CONFIGS se expande en el shell (sin ${{ }} dentro del run).
+          # CONFIGS se expande en el shell, sin interpolar expresiones en el run.
           # Sin comillas para separar configs por espacios, como antes.
           args=""
           for c in $CONFIGS; do args="$args --config $c"; done
